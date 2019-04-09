@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="2c672cc5ed79cdf4"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="black"
+		rxversion="9.0.0.0"
+		host="DESKTOP-Q3681E5"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="4/9/2019 5:01:17 PM"
+		timestampiso="2019-04-09T10:01:17"
+		endtime="4/9/2019 5:01:27 PM"
+		timeoutfactor="1"
+		module="OpenBrowser">
+		<detail>
+			OpenBrowser
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.337"
+			timeRelativeToTestModuleStartTime="00:05.338"
+			timeWallClock="17:01:22"
+			time="00:05.337"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'https://hoclieu.sachmem.vn/folder/0' with browser 'chrome' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.597"
+			timeRelativeToTestModuleStartTime="00:05.598"
+			timeWallClock="17:01:23"
+			time="00:05.597"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LControlKey down}{Add}{Add}{Add}{Add}{LControlKey up}'.
+			</message>
+			<metainfo
+				itemindex="1"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="86"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.128"
+			timeRelativeToTestModuleStartTime="00:06.129"
+			timeWallClock="17:01:23"
+			time="00:06.128"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -480 units.
+			</message>
+			<metainfo
+				itemindex="2"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="90"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.676"
+			timeRelativeToTestModuleStartTime="00:06.677"
+			timeWallClock="17:01:24"
+			time="00:06.676"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LControlKey down}'.
+			</message>
+			<metainfo
+				itemindex="3"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="94"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.784"
+			timeRelativeToTestModuleStartTime="00:06.785"
+			timeWallClock="17:01:24"
+			time="00:06.784"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 240 units.
+			</message>
+			<metainfo
+				itemindex="4"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="98"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.320"
+			timeRelativeToTestModuleStartTime="00:07.321"
+			timeWallClock="17:01:24"
+			time="00:07.320"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LControlKey up}'.
+			</message>
+			<metainfo
+				itemindex="5"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="102"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.426"
+			timeRelativeToTestModuleStartTime="00:07.427"
+			timeWallClock="17:01:24"
+			time="00:07.426"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -1320 units.
+			</message>
+			<metainfo
+				itemindex="6"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="106"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.973"
+			timeRelativeToTestModuleStartTime="00:07.974"
+			timeWallClock="17:01:25"
+			time="00:07.973"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 1080 units.
+			</message>
+			<metainfo
+				itemindex="7"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="110"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.491"
+			timeRelativeToTestModuleStartTime="00:08.492"
+			timeWallClock="17:01:25"
+			time="00:08.491"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LControlKey down}{Subtract}{Subtract}{Subtract}{Subtract}{Subtract}{Subtract}{Subtract}{Subtract}{Subtract}{Subtract}{LControlKey up}{LControlKey down}{Subtract}{Subtract}{LControlKey up}{LControlKey down}{LControlKey down}{Add}{Add}{Add}{Add}{LControlKey up}{LControlKey down}{Add}{Add}{LControlKey up}'.
+			</message>
+			<metainfo
+				itemindex="8"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest1\MyTest1\OpenBrowser.cs"
+				codeline="114"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

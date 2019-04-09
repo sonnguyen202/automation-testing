@@ -1,0 +1,164 @@
+﻿<repository
+id="cce083bb-a4b1-4761-af5b-03ea11b5e4bd"
+name="MyTest3Repository"
+rxversion="9.0">
+	<codegen
+	classname="MyTest3Repository"
+	namespace="MyTest3">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="18a28301-0cf6-4749-b11b-83f7899b6aee"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="c18a9fd9-6b18-49e3-b486-56f8d5b718a8"
+		isrooted="True"
+		name="ApplicationUnderTest"
+		searchtimeout="30000ms"
+		usecache="True">
+			<basepath>
+				/dom[@domain='www.ranorex.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="edd623dd-4e4a-4bdb-8651-18890eb26fba"
+		isrooted="True"
+		name="FacebookGoogleChrome"
+		refpath="/form[@title='Facebook - Google Chrome']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="tabpage,accessible"
+			capname="tabpage"
+			id="318b0462-960c-45ea-9e55-550e311d4562"
+			name="HọcLiệuSachMềm"
+			refimgid="7c4d9c4e-d697-4022-b070-8dadfcdf0d48"
+			refpath="/form[@title='Facebook - Google Chrome']/container/container/container[2]/container[1]/tabpagelist/tabpage[@accessiblename='Học liệu - Sách Mềm']"
+			searchtimeout="30000ms">
+				/form[@title='Facebook - Google Chrome']/container[@accessiblename='Facebook - Google Chrome']/container[@accessiblename='Google Chrome']//tabpage[@accessiblename='H&#7885;c li&#7879;u - S&#225;ch M&#7873;m']
+			</item>
+			<item
+			addcaps="tabpage,accessible"
+			capname="tabpage"
+			id="4917da40-083c-4660-87e3-2bf99cf8bdda"
+			name="HọcLiệuSachMềm1"
+			refimgid="094b1527-169c-48ba-a88d-9a14e8fb7220"
+			refpath="/form[@title~'^Học\ liệu\ -\ Sách\ Mềm\ -\ Goo']/container/container/container[2]/container[1]/tabpagelist/tabpage[@accessiblename='Học liệu - Sách Mềm']"
+			searchtimeout="30000ms">
+				/form[@title='Facebook - Google Chrome']/container[@accessiblename~'^H&#7885;c\ li&#7879;u\ -\ S&#225;ch\ M&#7873;m\ -\ Goo']/container[@accessiblename='Google Chrome']//tabpage[@accessiblename='H&#7885;c li&#7879;u - S&#225;ch M&#7873;m']
+			</item>
+			<basepath>
+				/form[@title='Facebook - Google Chrome']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAJMSURBVDhPrZJLTxNhFIbnD8CmgqDiJbKQlUsT
+pbTTaaWt9EYVlaGUFht0ISsT117QqGw06o5eMYArSNSNxHgtKIylBMXYmWkxxii40WkkKp3X+YYZ
+sVFX+ibP7nvec07yUf89H1l7pdjmOC+22WdFv0MSfM2S6LNmea+tb8m9u0J79ufkD7ns+bZ9bwR/
+M4TWvRB8NggeBrybBt9iBu+iFwSXxaY9Lw/nsTLCAYcs7rdDLSCy16oUWFYLXKTEBN5hlHl7I6Np
+q6m/c7yyr9f7dk4R1AJteo71loQT/rzQY+KFSBMvRsw5MWIkpMvOqR86em7XtcDKXece5DxKSfgg
+hAcTuPlEwvBjCfmXaSze8uDz7UYsj5vw/X4TSpPMWU2nqK03ume3DUZw5KQHzxxGiA8n0Hm9CFd/
+ES2XimCvFvEuPwk8t2kwkDk6o+lKwWC3tCXVjR0DIQwHWjCiTNVl58VVhh5JKGVaFdkKcKTAImk6
+RdUlQ9LmVBgEtj+oFvwqOy7oBX5VBmchG6wVbEp2ZTcmukCoS4Tk9PzrJbK2Lh++UsSr/PwHfbpW
+sHZCbSp4ZkMiCEKtws7hXoy9yKhTCaNZDu+n2K+6DI5GiaNPaTpFGUbDFTWx4EJNvBOE9fGASsPQ
+MTQke3B5zPtzsipPWwryvLv8V1YnAtbqeEBWAKEq1oF1MRbbB9qxPGWTdVnmzLI8Q1s0rTyGGMtU
+RQMFQ5SFzvg957e1yebCX2U95BxDvOO0Ido+Q4+0L355ynxamTZnyM2/rf3voagf2nKwO/rr1QsA
+AAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="14337e06-cc23-46c5-b8c5-a90233924ce2"
+		isrooted="True"
+		name="HọcLiệuSachMềm"
+		refpath="/dom[3]"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,inputtag"
+			capname="inputtag"
+			id="2a671509-3054-4004-90be-da97e2678199"
+			name="Submit"
+			refimgid="3a65053c-0b7a-4b79-8a4d-c121a6125894"
+			refpath="/dom[3]//div[#'createAssignmentModal']/div/div/form/div[2]/input[@type='submit']"
+			searchtimeout="30000ms">
+				/dom[3]//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']
+			</item>
+			<item
+			addcaps="unknown,webelement,atag"
+			capname="atag"
+			id="7249d480-75a7-4835-ab22-ba98d3ad3917"
+			name="OptionDropdown"
+			refimgid="38ce97b2-2161-4fd2-8cb9-baea0f3853ca"
+			refpath="/dom[3]/body/tag[@tagname='app-root']/div[2]/div/div/div/tag[@tagname='folder-tree']/ul/li[2]/div/div[2]/span[2]/a[@id='optionDropdown']"
+			searchtimeout="30000ms">
+				/dom[3]/body/tag[@tagname='app-root']/div[2]//ul/li[2]/div/div[2]/span[2]/a[@id='optionDropdown']
+			</item>
+			<item
+			addcaps="unknown,webelement,atag"
+			capname="atag"
+			id="519c3b44-e922-4ab3-bb69-f41d4e157b37"
+			name="ATagGiaoBaiTập"
+			refimgid="d058fccc-7588-43f2-b0af-b8d03df0812e"
+			refpath="/dom[3]/body/tag[@tagname='app-root']/div[2]/div/div/div/tag[@tagname='folder-tree']/ul/li[2]/div/div[2]/span[2]/div/a[@innertext~'^\ Giao\ bài\ tập\ \ \ \ \ \ \ \ \ \ \ ']"
+			searchtimeout="30000ms">
+				/dom[3]/body/tag[@tagname='app-root']/div[2]//ul/li[2]/div/div[2]/span[2]/?/?/a[@innertext~'^\ Giao\ b&#224;i\ t&#7853;p\ \ \ \ \ \ \ \ \ \ \ ']
+			</item>
+			<item
+			addcaps="unknown,webelement,buttontag"
+			capname="buttontag"
+			id="1ebb85c6-60f2-4854-8fa7-4df3d2ae97ba"
+			name="Đong"
+			refimgid="7e748730-f2ab-4581-a99d-8ac3f4a0087f"
+			refpath="/dom[3]//div[#'createAssignmentModal']/div/div/form/div[2]/button[@innertext='Đóng']"
+			searchtimeout="30000ms">
+				/dom[3]//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/button[@innertext='&#272;&#243;ng']
+			</item>
+			<basepath>
+				/dom[3]
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

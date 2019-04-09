@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="2802c0d2d48e2f1"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="black"
+		rxversion="9.0.0.0"
+		host="DESKTOP-Q3681E5"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="4/9/2019 5:09:51 PM"
+		timestampiso="2019-04-09T10:09:51"
+		endtime="4/9/2019 5:10:07 PM"
+		timeoutfactor="1"
+		module="OpenBrowser">
+		<detail>
+			OpenBrowser
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.876"
+			timeRelativeToTestModuleStartTime="00:05.877"
+			timeWallClock="17:09:57"
+			time="00:05.876"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9' with browser 'chrome' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.442"
+			timeRelativeToTestModuleStartTime="00:06.443"
+			timeWallClock="17:09:57"
+			time="00:06.442"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'H&#7885;cLi&#7879;uSachM&#7873;m.Submit' at 14;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@caption='Học liệu - Sách Mềm' and @page='Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				itempath=".//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				fullname="MyTest2Repository.HọcLiệuSachMềm.Submit"
+				id="62a5443094234328bf85f38f4be3149d"
+				timeout="60000"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.197"
+			timeRelativeToTestModuleStartTime="00:12.198"
+			timeWallClock="17:10:03"
+			time="00:12.197"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'H&#7885;cLi&#7879;uSachM&#7873;m.Submit' at 39;21.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@caption='Học liệu - Sách Mềm' and @page='Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				itempath=".//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				fullname="MyTest2Repository.HọcLiệuSachMềm.Submit"
+				id="62a5443094234328bf85f38f4be3149d"
+				timeout="60000"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.052"
+			timeRelativeToTestModuleStartTime="00:13.053"
+			timeWallClock="17:10:04"
+			time="00:13.052"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -720 units.
+			</message>
+			<metainfo
+				itemindex="3"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="94"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.594"
+			timeRelativeToTestModuleStartTime="00:13.595"
+			timeWallClock="17:10:04"
+			time="00:13.594"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left DoubleClick item 'H&#7885;cLi&#7879;uSachM&#7873;m.Submit' at 29;27.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@caption='Học liệu - Sách Mềm' and @page='Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				itempath=".//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				fullname="MyTest2Repository.HọcLiệuSachMềm.Submit"
+				id="62a5443094234328bf85f38f4be3149d"
+				timeout="60000"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.457"
+			timeRelativeToTestModuleStartTime="00:14.458"
+			timeWallClock="17:10:05"
+			time="00:14.457"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'H&#7885;cLi&#7879;uSachM&#7873;m.Submit' at 31;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@caption='Học liệu - Sách Mềm' and @page='Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				itempath=".//div[#'createAssignmentModal']//form[@action='https://hoclieu.sachmem.vn/folder/Th%C6%B0_m%E1%BB%A5c_c%E1%BB%A7a_t%C3%B4i-5c6d2a760966f254d79b73c9']/?/?/input[@type='submit']"
+				fullname="MyTest2Repository.HọcLiệuSachMềm.Submit"
+				id="62a5443094234328bf85f38f4be3149d"
+				timeout="60000"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.270"
+			timeRelativeToTestModuleStartTime="00:15.271"
+			timeWallClock="17:10:06"
+			time="00:15.270"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 840 units.
+			</message>
+			<metainfo
+				itemindex="6"
+				codefile="c:\Users\black\Documents\Ranorex\RanorexStudio Projects\MyTest2\MyTest2\OpenBrowser.cs"
+				codeline="106"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
